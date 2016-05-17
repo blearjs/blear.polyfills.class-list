@@ -2,10 +2,7 @@
   "name": "blear.polyfills.class-list",
   "version": "1.0.1",
   "description": "blear.polyfills.class-list description",
-  "scripts": {
-    "live": "browser-sync start --config bs-config.js",
-    "test": "node ./node_modules/.bin/karma start --single-run --browsers PhantomJS --reporters progress"
-  },
+  "scripts": {},
   "preferGlobal": false,
   "bin": {},
   "engines": {
