@@ -25,6 +25,6 @@ if (typeof CLASSICAL !== 'undefined' && CLASSICAL === true) {
         el.classList.remove(className);
     };
     exports.has = function (el, className) {
-        el.classList.contains(className);
+        return el.classList.contains(className);
     };
 }
