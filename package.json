@@ -11,6 +11,9 @@
   },
   "main": "src/index.js",
   "keywords": [
+    "blear",
+    "polyfills",
+    "class-list",
     "cloudcome",
     "ydr.me"
   ],
