@@ -1,7 +1,7 @@
 {
   "name": "blear.polyfills.class-list",
-  "version": "1.0.1",
-  "description": "blear.polyfills.class-list description",
+  "version": "1.0.2",
+  "description": "class-list polyfill IE8",
   "scripts": {},
   "preferGlobal": false,
   "bin": {},
