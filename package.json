@@ -1,6 +1,6 @@
 {
   "name": "blear.polyfills.class-list",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "class-list polyfill IE8",
   "scripts": {},
   "preferGlobal": false,
@@ -32,7 +32,9 @@
     "url": "https://github.com/blearjs/blear.polyfills.class-list/issues"
   },
   "dependencies": {},
-  "peerDependencies": {},
+  "peerDependencies": {
+    "blear.polyfills.string": "1.x"
+  },
   "devDependencies": {},
   "license": "MIT"
 }
