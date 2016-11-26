@@ -1,7 +1,5 @@
 'use strict';
 
-require('blear.polyfills.string');
-
 if (typeof CLASSICAL !== 'undefined' && CLASSICAL === true) {
     exports.add = function (el, className) {
         className = String(className).trim();
